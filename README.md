@@ -24,7 +24,7 @@ The database is designed to model a single soccer season and includes the follow
 
 - Players are linked to Teams.
 - Matches are linked to home and away Teams.
-- Match and Season stats are linked to both Players.
+- Match and Season stats are linked to Players.
 - Standings are linked to Teams.
 
 ## How to Use
